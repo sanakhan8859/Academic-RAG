@@ -2,6 +2,8 @@
 
 MERN app that ingests OpenAlex papers, builds a citation graph (PageRank + HITS + temporal boost), detects topic trends, and answers queries with RAG + inline citations.
 
+Link : https://academic-rag-front.onrender.com/
+
 ## Quickstart
 
 ### Backend
